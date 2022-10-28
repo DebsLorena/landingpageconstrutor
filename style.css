@@ -881,7 +881,7 @@ footer .footer-right {
     }
 
     .about {
-        height: 80vh;
+        height: 70vh;
     }
 
     .about .content {
@@ -945,7 +945,7 @@ footer .footer-right {
     }
 
     .contact {
-        height: 100vh;
+        height: 90vh;
         display: block;
         padding: 10px;
     }
